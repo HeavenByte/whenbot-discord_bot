@@ -18,9 +18,9 @@
 
 ## ✨ Fitur Utama
 
-- 🌾 **Sistem Ekonomi & Bisnis:** Fitur bertani (`farming`), menambang (`mining`), dan mengelola keuangan server (`money`).
+- 🌾 **Sistem Ekonomi & Bisnis:** Fitur Bekerja (`farming`), menambang (`mining`), dan mengelola keuangan server (`bal`).
 - 🃏 **Gacha & Koleksi Kartu:** Koleksi kartu unik melalui sistem `gacha` dan simpan di dalam `inventory` Anda.
-- ⚔️ **Dungeon RPG:** Masuk ke dalam `dungeon` berbahaya untuk mendapatkan hadiah dan item langka.
+- ⚔️ **Dungeon RPG:** Masuk ke dalam `dungeon` berbahaya untuk mendapatkan hadiah dan item langka(`coming soon`).
 - 🤝 **Sistem Trading:** Tukarkan item atau kartu koleksi antar pengguna server secara aman (`trading`).
 - 🛡️ **Moderasi Otomatis:** Menjaga kebersihan server dari kata-kata kasar dengan fitur `banned_word`.
 
@@ -31,7 +31,7 @@
 Bot ini menggunakan sistem **Cogs** agar kodingan rapi dan terbagi menjadi beberapa kategori utama:
 
 ### 🪙 1. Kategori: Economy
-*   `farming.py` — Perintah untuk menanam, merawat, dan memanen hasil kebun.
+*   `farming.py` — Perintah untuk bekerja farming early.
 *   `mining.py` — Perintah untuk pergi menambang batu mulia atau batu bara.
 *   `money.py` — Mengatur saldo, transfer uang, dan cek peringkat terkaya.
 
@@ -51,7 +51,7 @@ Bot ini menggunakan sistem **Cogs** agar kodingan rapi dan terbagi menjadi beber
 
 ### 1. Clone & Masuk ke Folder Project
 ```bash
-git clone https://github.com
+git clone https://github.com/HeavenByte/whenbot-discord_bot
 cd whenbot-discord_bot
 ```
 
