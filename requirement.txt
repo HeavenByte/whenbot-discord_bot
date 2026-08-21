@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+better-profanity
+aiohttp
+yt-dlp
+PyNaCl
