@@ -1,16 +1,24 @@
 # 💰 WhenBot - Discord Economy & RPG Bot 🎮
 
+# 💰 WhenBot - Discord Economy & RPG Bot 🎮
+
 <div align="center">
 
-![Discord Bot](https://shields.io)
-![Python](https://shields.io)
-![Status](https://shields.io)
+<img src="https://shields.io" alt="Discord Bot">
+<img src="https://shields.io" alt="Python">
+<img src="https://shields.io" alt="Status">
+
+<br><br>
 
 **WhenBot** adalah bot Discord interaktif yang membawa sistem ekonomi virtual, minigames RPG, dan fitur gacha seru langsung ke dalam server komunitas Anda.
+
+<br>
 
 [Fitur Utama](#-fitur-utama) • [Instalasi](#%EF%B8%8F-cara-instalasi) • [Struktur Kategori](#-struktur-kategori-bot) • [Kontribusi](#-kontribusi)
 
 </div>
+
+---
 
 ---
 
