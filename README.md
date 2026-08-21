@@ -1,7 +1,5 @@
 # 💰 WhenBot - Discord Economy & RPG Bot 🎮
 
-# 💰 WhenBot - Discord Economy & RPG Bot 🎮
-
 <div align="center">
 
 <img src="https://shields.io" alt="Discord Bot">
