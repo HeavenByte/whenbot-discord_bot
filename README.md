@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Discord Bot](https://shields.io)
-![Python](https://shields.io)
-![Status](https://shields.io)
+![Discord Bot](https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 **WhenBot** adalah bot Discord interaktif yang membawa sistem ekonomi virtual, minigames RPG, dan fitur gacha seru langsung ke dalam server komunitas Anda.
 
